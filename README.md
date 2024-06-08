@@ -1,3 +1,3 @@
 ### Welcome to my GitHub profile!
 
-[![WebSite](https://img.shields.io/badge/My%20personal%20website-red?style=for-the-badge)](http://www.ahstr.live/)
+[![WebSite](https://img.shields.io/badge/My%20personal%20website-red?style=for-the-badge)](http://www.ahsdev.com.tr/)
