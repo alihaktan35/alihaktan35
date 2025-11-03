@@ -1,8 +1,4 @@
-# Hi there, I'm Ali Haktan! 👋
-
-## 🎓 About Me
-
-I'm a 4th year Computer Engineering student from Türkiye, passionate about building innovative solutions and exploring new technologies. Welcome to my GitHub profile where I share my projects, experiments, and learning journey!
+# Welcome to my GitHub profile! 👋
 
 ## 🌐 Connect With Me
 
@@ -18,9 +14,9 @@ I'm a 4th year Computer Engineering student from Türkiye, passionate about buil
 
 ## 📊 GitHub Stats
 
+[![Years on GitHub](https://badges.pufler.dev/years/alihaktan35?style=flat-square)](https://github.com/alihaktan35)
+[![Profile Views](https://komarev.com/ghpvc/?username=alihaktan35&color=red&style=flat-square)](https://github.com/alihaktan35)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alihaktan35&show_icons=true&theme=radical)
-
-## 🛠️ Technologies & Tools
 
 ## 🛠️ Technologies & Tools
 
