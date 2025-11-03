@@ -18,7 +18,7 @@ I'm a 4th year Computer Engineering student from Türkiye, passionate about buil
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alihaktan35&show_icons=true&theme=radical)
 
 ## 🛠️ Technologies & Tools
 
@@ -27,7 +27,3 @@ I'm a 4th year Computer Engineering student from Türkiye, passionate about buil
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-
-💬 Feel free to reach out if you want to collaborate on a project or just chat about tech!
