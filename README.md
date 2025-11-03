@@ -14,6 +14,16 @@
 
 ## 📊 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alihaktan35&show_icons=true&theme=radical)
+
+<div align="center">
+  
+🚀 **Member since November 5, 2017** • ![Experience](https://img.shields.io/badge/8%2B%20Years-181717?style=flat-square&logo=github)
+
+</div>
+
+## 📊 GitHub Stats
+
 [![Years on GitHub](https://badges.pufler.dev/years/alihaktan35?style=flat-square)](https://github.com/alihaktan35)
 [![Profile Views](https://komarev.com/ghpvc/?username=alihaktan35&color=red&style=flat-square)](https://github.com/alihaktan35)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alihaktan35&show_icons=true&theme=radical)
