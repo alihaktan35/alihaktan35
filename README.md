@@ -14,7 +14,6 @@
 
 ## 📊 GitHub Stats
 
-![](http://profile-summary-cards.vercel.app/api/cards/profile-details?username=alihaktan35&theme=default)
 ![Profile Views](https://komarev.com/ghpvc/?username=alihaktan35&color=red&style=flat-square)
 ![Experience](https://img.shields.io/badge/8%2B%20Years-181717?style=flat-square&logo=github)
 
