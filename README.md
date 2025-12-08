@@ -14,7 +14,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alihaktan35&show_icons=true&theme=radical&cache_bust=20251208)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alihaktan35&theme=radical)
 ![Profile Views](https://komarev.com/ghpvc/?username=alihaktan35&color=red&style=flat-square)
 ![Experience](https://img.shields.io/badge/8%2B%20Years-181717?style=flat-square&logo=github)
 
