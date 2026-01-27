@@ -51,7 +51,7 @@ C  •  C#  •  JavaScript  •  HTML/CSS
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alihaktan35&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alihaktan35&theme=tokyonight&hide_border=true&background=0D1117)
+![GitHub Streak](https://streak-stats.demolab.com/?user=alihaktan35&theme=tokyonight&hide_border=true&background=0D1117)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=alihaktan35&color=blueviolet&style=flat-square&label=Profile+Views)
 
