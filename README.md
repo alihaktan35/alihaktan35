@@ -1,34 +1,68 @@
-# Welcome to my GitHub profile! 👋
+<div align="center">
 
-## 🌐 Connect With Me
+# Hi, I'm Ali Haktan 👋
 
-[![Website](https://img.shields.io/badge/Website-ahsdev.com.tr-red?style=for-the-badge&logo=google-chrome&logoColor=white)](http://www.ahsdev.com.tr/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ahsgn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahsgn/)
+### 4th Year Computer Engineering Student | AI Enthusiast
 
-## 💻 What I'm Up To
+*Exploring the frontiers of AI & Prompt Engineering*
 
-- 🎓 Currently completing my Computer Engineering degree
-- 🌱 Always learning and exploring new technologies
-- 💡 Open to collaboration on interesting projects
-- 🚀 Building and contributing to open source
+<br>
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alihaktan35&show_icons=true&theme=dark)
-
-![Profile Views](https://komarev.com/ghpvc/?username=alihaktan35&color=red&style=flat-square)
-![Experience](https://img.shields.io/badge/8%2B%20Years-181717?style=flat-square&logo=github)
-
-🚀 **Member since November 5, 2017**
+[![Website](https://img.shields.io/badge/🌐_ahsdev.com.tr-000000?style=for-the-badge)](http://www.ahsdev.com.tr/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahsgn/)
 
 </div>
 
-## 🛠️ Technologies & Tools
+---
 
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+## 🤖 AI & Machine Learning Focus
+```yaml
+current_interests:
+  - Large Language Models (LLMs)
+  - Prompt Engineering & Optimization
+  - AI Agent Development
+  - Natural Language Processing
+```
+
+## 🚀 What I'm Working On
+
+- 🎓 Completing my Computer Engineering degree
+- 🧠 Deep diving into LLM architectures and prompt design patterns
+- 🔬 Experimenting with AI applications and use cases
+- 💡 Open to collaborating on AI/ML projects
+- 🌱 Contributing to open source
+
+## 🛠️ Tech Stack
+
+**Languages**
+```
+C  •  C#  •  JavaScript  •  HTML/CSS
+```
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alihaktan35&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alihaktan35&theme=tokyonight&hide_border=true&background=0D1117)
+
+![Profile Views](https://komarev.com/ghpvc/?username=alihaktan35&color=blueviolet&style=flat-square&label=Profile+Views)
+
+</div>
+
+---
+
+<div align="center">
+
+*Member since November 2017 • 8+ Years on GitHub*
+
+**💬 Open to opportunities and collaborations**
+
+</div>
