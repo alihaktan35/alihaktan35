@@ -27,9 +27,7 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alihaktan35&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alihaktan35&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+![GitHub Stats](https://ghstats.dev/api/card?username=alihaktan35)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=alihaktan35&color=blueviolet&style=flat-square&label=Profile+Views)
 
