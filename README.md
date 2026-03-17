@@ -7,7 +7,7 @@
 
 <br>
 
-[![Website](https://img.shields.io/badge/🌐_ahsdev.com.tr-000000?style=for-the-badge)](http://www.ahsdev.com.tr/)
+[![Website](https://img.shields.io/badge/🌐_ahsdev.com.tr-000000?style=for-the-badge)](http://www.ahsdev.com.tr/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahsgn/)
 
 </div>
@@ -45,6 +45,7 @@
 <div align="center">
 
 ![GitHub Stats](https://ghstats.dev/api/card?username=alihaktan35)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=alihaktan35&color=blueviolet&style=flat-square&label=Profile+Views)
 
 </div>
