@@ -26,13 +26,13 @@
 
 > I pick the right tool for the job — here are some I've worked with:
 
--**Languages:** Python · JavaScript · TypeScript · C# · PHP · Visual Basic
--**Frontend:** React · HTML/CSS · Tailwind CSS
--**Backend:** Node.js · Express.js · .NET
--**Databases:** PostgreSQL · MySQL · Firebase · Redis
--**DevOps & Cloud:** Docker · RabbitMQ · Azure · Netlify · Render
--**Game Dev:** Unity
--**Other:** Socket.io · REST APIs · JWT · UML · n8n
+- **Languages:** Python · JavaScript · TypeScript · C# · PHP · Visual Basic
+- **Frontend:** React · HTML/CSS · Tailwind CSS
+- **Backend:** Node.js · Express.js · .NET
+- **Databases:** PostgreSQL · MySQL · Firebase · Redis
+- **DevOps & Cloud:** Docker · RabbitMQ · Azure · Netlify · Render
+- **Game Dev:** Unity
+- **Other:** Socket.io · REST APIs · JWT · UML · n8n
 
 ## 📈 GitHub Activity
 
