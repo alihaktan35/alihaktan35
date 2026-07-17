@@ -2,7 +2,7 @@
 
 # Hi, I'm Ali Haktan 👋
 
-### 4th Year Computer Engineering Student
+### Computer Engineering Graduate
 *Building things, solving problems, and always learning*
 
 <br>
@@ -16,7 +16,7 @@
 
 ## 🚀 What I'm Up To
 
-- 🎓 Completing my Computer Engineering degree
+- 🎓 Computer Engineering graduate
 - 💻 Building software across different domains — web, systems, AI, and beyond
 - 🌱 Contributing to open source and exploring new technologies
 - 🤝 Open to collaborating on interesting projects of any kind
@@ -50,6 +50,6 @@
 
 *Member since November 2017 • 8+ Years on GitHub*
 
-**💬 Open to opportunities, internships, and collaborations**
+**💬 Feel free to reach out — happy to connect, talk about a project, or just say hi**
 
 </div>
